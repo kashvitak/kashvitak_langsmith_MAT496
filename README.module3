@@ -3,3 +3,10 @@ playground experiment:
 
 using difference chat models to see the difference in their response, comparing and choosing the best one;
 using tools and output schemas to personalize our prompts.
+
+
+video 2- 
+prommpt hub:
+used to save prompts in the prompt hub;
+the configuration of the prompts can be personalized;
+pulling and pushing of these prompts can be done;
